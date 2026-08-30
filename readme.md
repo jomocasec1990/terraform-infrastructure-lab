@@ -1,4 +1,4 @@
-# Terraform AWS Infrastructure Lab
+# Terraform Infrastructure Lab
 
 A hands-on Infrastructure as Code (IaC) project focused on Terraform, AWS infrastructure, and cloud security best practices.
 
@@ -27,7 +27,7 @@ The main objectives of this project are to:
 ## Repository Structure
 
 ```text
-terraform-aws-lab/
+terraform-infrastructure-lab/
 │
 ├── README.md
 ├── .gitignore
